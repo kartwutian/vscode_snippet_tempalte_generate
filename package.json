@@ -1,0 +1,17 @@
+{
+  "name": "vscode_snippet_tempalte_generate",
+  "version": "1.0.4",
+  "description": "",
+  "bin": {
+    "vs-snippet": "bin/vs-snippet.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-bin": "^2.8.1"
+  }
+}
